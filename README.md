@@ -1,5 +1,5 @@
 # Plotting and clustering coordinates on google map
- The data from one of the kaggle datset is plotted and clustered. It clusters with zoom and  
+ The data from one of the kaggle datset is plotted and clustered. It plot the data with creating a heavy file. 
  The datset was downloaded from https://www.kaggle.com/mchirico/montcoalert.
  
  As the data is in .CSV file so first we converted it into Json data format and saved it as markers.js.
